@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Циферблат таймера -->
+    <path android:fillColor="#FFFFFF" android:pathData="M54,32 A24,24 0 1,1 53.99,32 Z" />
+    <path android:fillColor="#E5483B" android:pathData="M54,56 L54,38 A18,18 0 0,1 70,61 Z" />
+    <path android:fillColor="#3C8D3F" android:pathData="M48,26 L60,26 L57,31 L51,31 Z" />
+</vector>
